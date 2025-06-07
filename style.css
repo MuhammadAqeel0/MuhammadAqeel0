@@ -1,0 +1,30 @@
+
+.head {
+  background:#ccc;
+  padding: 10px;
+  font-weight: bold;
+  text-align: left;
+}
+
+.item {
+  padding: 5px 10px;
+  color: #fff;
+  font-size: 12px;
+  text-align: left;
+}
+
+.ph-14 { background: rgba(59,157,212,1); }
+.ph-13 { background: rgba(75,176,226,1); }
+.ph-12 { background: rgba(91,195,240,1); }
+.ph-11 { background: rgba(106,209,248,1); }
+.ph-10 { background: rgba(122,223,255,1); }
+.ph-9  { background: rgba(139,229,255,1); }
+.ph-8  { background: rgba(156,236,255,1); }
+.ph-7  { background: rgba(60,179,113,1); font-weight: bold; }
+.ph-6  { background: rgba(244,155,178,1); }
+.ph-5  { background: rgba(242,135,163,1); }
+.ph-4  { background: rgba(239,115,148,1); }
+.ph-3  { background: rgba(236,95,133,1); }
+.ph-2  { background: rgba(233,75,118,1); }
+.ph-1  { background: rgba(230,55,103,1); }
+.ph-0  { background: rgba(227,35,88,1); font-weight: bold; }
